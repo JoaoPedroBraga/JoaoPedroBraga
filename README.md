@@ -19,6 +19,7 @@
 
 
 <br>
-### Um pouco sobre mim
+Um pouco sobre mim
+
 Olá! Me chamo João Pedro, tenho 25 anos e sou acadêmico de engenharia de software.
 A bastante tempo venho estudando a fundo sobre programação e a cada descoberta me apaixono mais pelo o que faço, tirar algo do papel e colocar em uma tela e simplesmente incrível.
