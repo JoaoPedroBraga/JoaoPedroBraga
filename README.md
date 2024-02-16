@@ -26,6 +26,7 @@ Bem-vindo ao meu perfil do GitHub! 👋 Sou Joao Pedro, um profissional de logí
     <img style="margin-top=2px" align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+<br>
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou aberto a colaborações e sempre em busca de novos desafios! 🚀
 
